@@ -1,0 +1,48 @@
+#kati{
+  width:100%;
+  height: 500px;
+  border: none;
+  border-radius: 20px;
+  background-color: #000000;
+}
+/*This styles the Menu bar of the application ********************************* */
+#menu{
+  width:100%;
+  height:80px;
+  background-color: brown;
+  display: inline-flex;
+  border: none;
+  border-radius: 5px;
+}
+.dada_logo{
+  width: 25%;
+  height: 90%;
+  border: 2px solid #fff;
+  border-radius: 100%;
+}
+.dada_logo img{
+  width: 100%;
+  height: 100%;
+}
+.menu_kati{
+  width:49%;
+  height: 100%;
+  text-align: center;
+}
+.menu_kati span{
+  font-size: 48px;
+  font-family: Comic sans MS;
+  font-weight: bold;
+}
+
+.user_logo{
+  width: 25%;
+  height: 95%;
+  border: 2px solid #fff;
+  border-radius: 100%;
+
+}
+.user_logo img{
+  width: 100%;
+  height: 100%;
+}
