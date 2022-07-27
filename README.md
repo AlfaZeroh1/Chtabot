@@ -1,2 +1,2 @@
 # Chatbot
-My school Project
+My school Project -  This is a Swahili CHatbot. Built a simple JS Web App that has  a set of algorithms that analyze a user input as text and check the database for the most appropriate response. It also has a train feature that records questions it was unable to answer for further analysis or repsonse provision by the developer. The project is too huge to be storedd as a repository but I'll upload it's prototype.
