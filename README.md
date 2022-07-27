@@ -1,2 +1,2 @@
-# Chtabot
+# Chatbot
 My school Project
